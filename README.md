@@ -84,7 +84,7 @@ The app opens at `http://localhost:8501`.
 
  Demo Video
 
-[Link to demo video on Mediasite/YouTube]
+https://video.xjtlu.edu.cn/Mediasite/Channel/5827ac887fb940a08d3a8e5b8ab9e97d5f
 
  Tags
 
